@@ -1,0 +1,17 @@
+{
+  "scholar": {
+    "status": "NOT_AVAILABLE",
+    "evidence": "",
+    "note": "Change to DONE only after a logged action with verifiable URL/evidence."
+  },
+  "notebooklm": {
+    "status": "NOT_AVAILABLE",
+    "evidence": "",
+    "note": "Change to DONE only after a logged action with verifiable URL/evidence."
+  },
+  "independent_fact_check": {
+    "status": "NOT_AVAILABLE",
+    "evidence": "",
+    "note": "Change to DONE only after a real separate check by subagent/human."
+  }
+}
